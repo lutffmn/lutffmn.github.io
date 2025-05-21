@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is lutffmn’s personal blog, built with Jekyll and GitHub Pages.
+Enjoy every words of it.
